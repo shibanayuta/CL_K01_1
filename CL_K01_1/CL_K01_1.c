@@ -3,7 +3,7 @@
 
 #include <stdio.h>
 
-// ‚ ‚¢
+// ‚ ‚¢‚¤
 void main(void) {
 	int sum,num1,num2;
 	num1 = 15;
